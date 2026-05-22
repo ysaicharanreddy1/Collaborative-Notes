@@ -58,7 +58,7 @@ To let a friend in a different house connect to your laptop, we need to create a
 1. Copy that `https://...loca.lt` link and text/WhatsApp it to your friend.
 2. Your friend simply clicks the link on their laptop or phone.
 3. They might see a "Friendly Warning" page asking if they want to proceed. Tell them to click the **"Click to Continue"** button.
-4. **That's it!** They are now in the exact same document as you. 
+4. **That's it!** They are now in the exact same document / screen as you.
 
 ---
 *Note: When you are done using the app, you can simply close Visual Studio Code, which will turn off the server and the internet tunnel automatically.*
