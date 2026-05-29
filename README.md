@@ -25,6 +25,12 @@ Collaborative Notes/
 
 ---
 
+This project was developed as part of:
+
+**CODTECH Internship Task-3 — REAL-TIME COLLABORATION TOOL**
+
+---
+
 ## How to Run Your Collaborative Notes App
 
 ## Step 1: Open the Project
