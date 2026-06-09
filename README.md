@@ -13,14 +13,14 @@ A full-stack, real-time collaborative rich-text editor inspired by Google Docs. 
 ```text
 Collaborative Notes/
 │
-├── public/                  # Frontend client files
-│   ├── index.html           # Main UI layout and CDN imports
-│   ├── style.css            # Premium styling and Google Docs-like aesthetics
-│   └── script.js            # Quill initialization and Socket.io client logic
+├── public/                  
+│   ├── index.html           
+│   ├── style.css            
+│   └── script.js            
 │
-├── server.js                # Node.js backend server and Socket.io event handlers
-├── package.json             # Project metadata and npm dependencies
-└── README.md                # Project documentation
+├── server.js                
+├── package.json             
+└── README.md                
 ```
 
 ---
